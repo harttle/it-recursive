@@ -1,0 +1,23 @@
+{
+  "name": "it-recursive",
+  "version": "1.0.0",
+  "description": "Iteratively evaluate recursive functions, avoiding \"Maximum call stack size exceeded\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "iterative",
+    "recursive",
+    "stack-overflow"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/harttle/it-recursive.git"
+  },
+  "author": "harttle <yangjvn@126.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
